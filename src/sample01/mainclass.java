@@ -6,6 +6,7 @@ public class mainclass {
 		// TODO Auto-generated method stub
 
 		System.out.println("헬로우 자바");
+		System.out.println("**************수정했음****************");
 		
 		// 한줄 주석문 -> 컴파일 X
 		
